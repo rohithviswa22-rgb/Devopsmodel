@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent 
 
     environment {
         // MongoDB URI from Jenkins credentials

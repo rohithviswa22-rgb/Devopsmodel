@@ -152,17 +152,4 @@ h1 {
   background: #c0392b;
 }
 
-/* No data message */
-.no-data {
-  text-align: center;
-  font-style: italic;
-  color: #555;
-  margin-top: 20px;
-}
-.no-data img {
-  width: 150px;
-  margin-top: 15px;
-}
-.no-data p {
-  font-size: 1.1rem;
-}
+

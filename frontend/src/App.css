@@ -152,4 +152,14 @@ h1 {
   background: #c0392b;
 }
 
+/* Responsive Design */
+@media (max-width: 600px) {
+  .student-form {
+    flex-direction: column;
+    align-items: stretch;
+  }
 
+  .student-form input {
+    flex: 1 1 100%;
+  }
+}
